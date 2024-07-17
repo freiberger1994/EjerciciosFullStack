@@ -1,0 +1,85 @@
+header
+{
+  background-color: #4B9130;
+}
+.main{
+  display: inline-block;
+}
+.logo{
+  float: left;
+}
+
+#logoBeer{
+  width: 100%;
+}
+
+.frase
+{
+  margin-top: 2%;
+  float: right;
+  text-align: justify;
+  text-shadow: 3px 3px 4px #FFAF3A;
+  font-size: 18px;
+  font-style: italic;
+  font-weight: bolder;
+  font-family: Helvetica','Verdana',sans-serif;
+
+}
+#divContenido{
+  background-color:#4B9130;
+}
+
+
+
+/* Cambiar de color cuando pasa el cursor*/ 
+.boton
+{
+  width: 100%;
+  border-radius: 18px;
+  box-shadow: 5px 6px 8px black;
+  margin-bottom: 6%;
+  font-style: italic;
+  font-weight: bolder;
+  font-variant: small-caps;
+  font-family: Helvetica','Verdana',sans-serif;
+}
+
+footer{
+  background-color: #FFAF3A;
+}
+footer section div img
+{
+  width: 30%;
+}
+footer section div p
+{
+  width: 30%;
+}
+
+.iM
+{
+  width:60%;
+  align-items: center;
+}
+
+.datoText
+{
+  text-align: center;
+  font-style: italic;
+  font-size: 13px;
+  font-weight: bolder;
+  font-family: Helvetica','Verdana',sans-serif;
+}
+
+.colorRoja{
+  background-color: red;
+  color: white;
+}
+.colorNegra{
+  background-color: black;
+  color: white;
+}
+.colorRubia{
+  background-color: yellow;
+  color: white;
+}
